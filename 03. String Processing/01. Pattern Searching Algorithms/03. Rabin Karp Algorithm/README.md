@@ -1,6 +1,6 @@
 # Rabin-Karp Algorithm
 In Rabin-Karp Algorithm, we compare hash value of pattern with hash value of current window with a rolling hash function.</br>
-**Reference: [Rabin-Karp Algorithm](https://cp-algorithms.com/string/rabin-karp.html)
+**Reference: [Rabin-Karp Algorithm](https://cp-algorithms.com/string/rabin-karp.html)**
 </br>
 **Time Complexity: O(|txt| + |pat|)**
 
