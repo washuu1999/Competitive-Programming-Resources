@@ -1,5 +1,7 @@
 # Pattern searching (pattern consists of different characters)
 The idea is to instead of sliding window by one character, we slide it by the length of previous window that matched. If previous window length that matched was zero, we slide the window by one character.
+</br></br>
+**Time Complexity: O(|txt|)**
 
 ### sample input
 ```
